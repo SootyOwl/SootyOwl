@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SootyOwl
 - 👀 I’m interested in environmentalism, physics, and AI.
-- 🌱 I’m currently learning how to coordinate IoT devices over MQTT.
+- 🌱 I’m currently learning about natural language processing.
 - 💞️ I’m looking to collaborate on anything that takes my fancy.
 - 📫 How to reach me: @existentowl on Twitter.
 
