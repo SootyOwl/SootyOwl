@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SootyOwl
-- 👀 I’m interested in environmentalism, physics, and AI.
-- 🌱 I’m currently learning about natural language processing.
-- 💞️ I’m looking to collaborate on anything that takes my fancy.
-- 📫 How to reach me: @existentowl on Twitter.
+👋 Hi, I’m SootyOwl. This is my personal account for every unfinished project idea and abandoned "it would be cool if..."
+
+I'm open to collaboration on small projects that appeal to my interests. I work best in short bursts of creativity.
+
+My website: https://hyperfox.tyto.cc/
 
 <!---
 SootyOwl/SootyOwl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
